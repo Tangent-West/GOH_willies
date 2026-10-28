@@ -1,4 +1,4 @@
-# Willie’s · Plan. Don’t Ban.
+# Willie’s Remedy · Plan. Don’t Ban.
 
 Campaign working plan · November 10–December 10, 2026 · Draft for team review
 
@@ -37,7 +37,7 @@ Primary result: completed Tell Congress actions. Supporting measures: delivered 
 
 ## Details to resolve before launch
 
-- Confirm brand naming: the supplied kit says “Willie’s”; this draft does not assume whether the final campaign should name Willie’s Reserve or another Willie’s product brand.
+- Campaign partner: Willie’s Remedy, as confirmed by the project owner. Original kit artwork and copy remain preserved unchanged.
 - Confirm the legislative status and actual deadline before using the source’s December 11 claims or countdown graphics. Policy language is preserved from the kit and has not been independently verified in this handoff.
 - The source promotes a Willie Nelson signed-bottle giveaway. Confirm the promotion details, entry mechanism, eligibility, rules URL, and dates before using those lines.
 - Replace email preference and unsubscribe placeholders with the email provider’s live links. Check rendering and every CTA in that provider.
