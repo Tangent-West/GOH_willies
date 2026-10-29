@@ -46,7 +46,7 @@ Primary result: completed Tell Congress actions. Supporting measures: delivered 
 
 ## Asset reference database
 
-[Browse all 38 assets](ASSET-CATALOG.md). The catalog includes stable asset IDs, categories, dates where supplied, relative file paths, formats, file sizes, PNG dimensions, SHA-256 checksums, and draft status.
+[Browse all 53 assets](ASSET-CATALOG.md). The catalog includes stable asset IDs, categories, dates where supplied, relative file paths, formats, file sizes, PNG dimensions, SHA-256 checksums, and draft status.
 
 - [JSON database](asset-catalog.json): portable data for future integrations.
 - [SQLite database](asset-catalog.sqlite): local queries with no server or account required.
@@ -82,4 +82,4 @@ Use the exact path from the JSON catalog, excluding its initial `assets/`, and U
 
 ## Provenance
 
-All 38 files under `assets/` were extracted unchanged from `Willies-Plan-Dont-Ban-Campaign.zip`. The overview and catalogs organize that source material. Original filenames, copy, and graphics are preserved. No campaign emails, social posts, or action submissions have been sent.
+All 53 files under `assets/` were extracted unchanged from the October 29 revision of `Willies-Plan-Dont-Ban-Campaign.zip`. The revised team-supplied photographs replace the earlier concert photography throughout the email and social exports. Final artwork remains for team review. The overview and catalogs organize that source material. Original filenames, copy, and graphics are preserved. No campaign emails, social posts, or action submissions have been sent.

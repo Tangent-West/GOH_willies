@@ -1,6 +1,6 @@
 # Asset catalog
 
-38 original source files. Paths open the preserved files. All records are source drafts; cataloging does not approve publication.
+53 source files from the October 29 revised kit. Existing asset IDs are retained. All artwork remains a team review draft.
 
 | ID | Category | Date | File |
 |---|---|---|---|
@@ -42,3 +42,18 @@
 | WR-036 | Social | — | [willies-social-captions.txt](assets/04-Social/willies-social-captions.txt) |
 | WR-037 | Social | — | [willies-social-treatments.png](assets/04-Social/willies-social-treatments.png) |
 | WR-038 | Source notes | — | [README.txt](assets/README.txt) |
+| WR-039 | Base email | — | [campaign-photo.png](assets/01-Base-email/assets/campaign-photo.png) |
+| WR-040 | Base email | — | [goh-logo.png](assets/01-Base-email/assets/goh-logo.png) |
+| WR-041 | Base email | — | [willie-legacy-hero.png](assets/01-Base-email/assets/willie-legacy-hero.png) |
+| WR-042 | Base email | — | [willies-logo.png](assets/01-Base-email/assets/willies-logo.png) |
+| WR-043 | Social | — | [export-manifest.json](assets/04-Social/export-manifest.json) |
+| WR-044 | Team source assets | — | [Forrest-Asset-Register.json](assets/05-Forrest-assets/Forrest-Asset-Register.json) |
+| WR-045 | Team source assets | — | [Forrest-Asset-Register.txt](assets/05-Forrest-assets/Forrest-Asset-Register.txt) |
+| WR-046 | Team source assets | — | [willie-profile-with-trigger.jpg](assets/05-Forrest-assets/willie-profile-with-trigger.jpg) |
+| WR-047 | Team source assets | — | [willie-smile-with-trigger.png](assets/05-Forrest-assets/willie-smile-with-trigger.png) |
+| WR-048 | Team source assets | — | [willie-wood-wall.jpeg](assets/05-Forrest-assets/willie-wood-wall.jpeg) |
+| WR-049 | Team source assets | — | [willies-horizontal-logo.png](assets/05-Forrest-assets/willies-horizontal-logo.png) |
+| WR-050 | Video handoff | — | [Jordan-Video-Handoff.txt](assets/06-Jordan-video-handoff/Jordan-Video-Handoff.txt) |
+| WR-051 | Video handoff | — | [Jordan-Video-Source-Overview.jpg](assets/06-Jordan-video-handoff/Jordan-Video-Source-Overview.jpg) |
+| WR-052 | Video handoff | — | [Video-Source-Inventory.json](assets/06-Jordan-video-handoff/Video-Source-Inventory.json) |
+| WR-053 | Video handoff | — | [Video-Source-Inventory.txt](assets/06-Jordan-video-handoff/Video-Source-Inventory.txt) |
